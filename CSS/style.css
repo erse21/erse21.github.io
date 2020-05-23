@@ -1,0 +1,83 @@
+#body{
+    width: 100%;
+    display: flex;
+    justify-content: center;
+    align-items: center;
+}
+.sdf{
+    width: 100%;
+    height: 100vh;
+    display: flex;
+    justify-content: center;
+    align-items: center;
+}
+table{
+    width:70% ;
+    background: rgba(57, 108, 237, 1);
+    opacity: 0.9;
+    border: 0px solid rgb(149, 232, 168) ;
+    box-align: center;
+	border-collapse: collapse;
+}
+tr{
+    transition: 0.3s; 
+}
+tr:hover{
+    background-color:rgba(74, 74, 74, 1);
+}
+#italy{
+    background: url(../images/italia.jpg) no-repeat center ;
+	background-size: 100%;
+}
+#japan{
+    background: url(../images/japan.jpg) no-repeat center ;
+	background-size: 100%;
+}
+#england{
+    background: url(../images/england.jpg) no-repeat center ;
+	background-size: 100%;
+}
+#france{
+    background: url(../images/france.jpg) no-repeat center ;
+	background-size: 100%;
+}
+#afghanistan{
+    background: url(../images/afghanistan.jpg) no-repeat center ;
+	background-size: 100%;
+}
+#switzerland{
+    background: url(../images/switzerland.jpg) no-repeat center ;
+	background-size: 100%;
+}
+#hungary{
+    background: url(../images/hungary.jpg) no-repeat center ;
+	background-size: 100%;
+}
+#brazilia{
+    background: url(../images/brazilia.jpg) no-repeat center ;
+	background-size: 100%;
+}
+#kolumbia{
+    background: url(../images/kolumbia.jpg) no-repeat center ;
+	background-size: 100%;
+}
+#argentina{
+    background: url(../images/argentina.jpg) no-repeat center ;
+	background-size: 100%;
+}
+#india{
+    background: url(../images/india.jpg) no-repeat center ;
+	background-size: 100%;
+}
+#canada{
+    background: url(../images/canada.jpg) no-repeat center ;
+	background-size: 100%;
+}
+#mexico{
+    background: url(../images/mexico.jpg) no-repeat center ;
+	background-size: 100%;
+}
+#romania{
+    background: url(../images/romania.jpg) no-repeat center ;
+	background-size: 100%;
+}
